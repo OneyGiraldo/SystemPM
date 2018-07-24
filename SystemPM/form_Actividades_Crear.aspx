@@ -41,7 +41,7 @@
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
                     <td>
-                        <asp:Button ID="ButtonCance" runat="server" Height="27px" Text="Cancelaraa" Width="85px" />
+                        <asp:Button ID="ButtonCance" runat="server" Height="27px" Text="Cancelar" Width="85px" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <asp:Button ID="ButtonGuar" runat="server" Height="27px" OnClick="ButtonGuar_Click" Text="Guardar" Width="85px" />
                     </td>
